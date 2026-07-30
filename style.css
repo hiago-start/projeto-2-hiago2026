@@ -1,24 +1,39 @@
-header{
-background-color: rgb(194, 255, 255);/*cor de fundo*/
-color: black;/*cor da fonte*/
-text-align: center;
-max-width: 810px;
-margin: 0 auto;
-padding: 15px;/*espaçamento interno*/
-border: 5px solid blue;
+header {
+    /*cabeçalho*/
+    background-color: rgb(194, 255, 255);
+    /*cor de fundo*/
+    color: black;
+    /*cor da fonte*/
+    text-align: center;
+    /*alinhamento do texto*/
+    max-width: 810px;
+    margin: 0 auto;
+    /*margens*/
+    padding: 15px;
+    /*espaçamento interno*/
+    border: 5px solid blue;
+    /*borda*/
 }
 
-main{
-background-color: rgb(208, 245, 245);
-color: black;
-text-align: center;
-max-width: 800px;
-margin: 0 auto;
+main {
+    /*texto pricipal*/
+    background-color: rgb(208, 245, 245);
+    /*cor de fundo*/
+    color: black;
+    /*cor da fonte*/
+    text-align: center;
+    /*alinhamento de texto*/
+    max-width: 800px;
+    margin: 0 auto;
+    /*margens*/
 }
 
 
-footer{
+footer {
+    /*rodapé*/
 
-background-color: rgba(0, 0, 255, 0.596);
-color: black;
+    background-color: rgba(0, 0, 255, 0.596);
+    /*cor de fundo*/
+    color: black;
+    /*cor da fonte*/
 }
