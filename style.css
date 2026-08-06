@@ -26,8 +26,9 @@ main {
     max-width: 800px;
     margin: 0 auto;
     /*margens*/
+    padding: 16px;/*espaçamento interno*/
     display: flex;/*habilita o uso da fles box*/
-
+    flex-direction: column;/*orienta os elemetos em forma de coluna na ordem 1, 2, 3*/
 
 }
 
