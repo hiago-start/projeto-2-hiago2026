@@ -49,10 +49,13 @@ footer {
 }
 
 img{
- width: 80px;/*largura da imagem*/
- height: 80px;/*altura da imagem*/
+    width: 80px;/*largura da imagem*/
+    height: 80px;/*altura da imagem*/
 }
-
+div p {
+    font-weight: bold;
+    /*destaque na fonte*/
+}
 
 
 
