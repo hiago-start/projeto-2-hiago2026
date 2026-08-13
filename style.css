@@ -24,6 +24,7 @@ main {
     text-align: center;
     /*alinhamento de texto*/
     max-width: 800px;
+    /*largura maxima*/
     margin: 0 auto;
     /*margens*/
     padding: 16px;/*espaçamento interno*/
@@ -40,6 +41,10 @@ footer {
     /*cor de fundo*/
     color: black;
     /*cor da fonte*/
+    max-width: 800px; /*largura maxima*/
+
+
+
 }
 
 img{
