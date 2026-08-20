@@ -1,6 +1,6 @@
 header {
     /*cabeçalho*/
-    background-color: rgb(194, 255, 255);
+    background-color: rgb(52, 133, 226);
     /*cor de fundo*/
     color: black;
     /*cor da fonte*/
@@ -11,7 +11,7 @@ header {
     /*margens*/
     padding: 15px;
     /*espaçamento interno*/
-    border: 5px solid rgb(90, 210, 231);
+    border: 0px solid rgb(90, 210, 231);
     /*borda*/
 }
 
@@ -30,7 +30,7 @@ main {
     padding: 16px;/*espaçamento interno*/
     display: flex;/*habilita o uso da fles box*/
     flex-direction: column;/*orienta os elemetos em forma de coluna na ordem 1, 2, 3*/
-    border: 5px solid rgb(90, 210, 231);
+    border: 0px solid rgb(90, 210, 231);
 }
 
 
