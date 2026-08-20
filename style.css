@@ -43,7 +43,10 @@ footer {
     /*cor da fonte*/
     max-width: 800px; 
     /*largura maxima*/
-
+margin: 0 auto;
+    /*margens*/
+    padding: 16px;/*espaçamento interno*/
+    display: flex;/*habilita o uso da fles box*/
 
 
 }
